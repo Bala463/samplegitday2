@@ -10,7 +10,7 @@ public static void main(String args[])
   System.out.print(" "+n3);    
   System.out.print("bala-balu");
   System.out.print("shalu");
-  System.out.print("bala-pandss");
+  System.out.println("bala-pandss");
   System.out.print("mca");
   n1=n2;    
   n2=n3;    
